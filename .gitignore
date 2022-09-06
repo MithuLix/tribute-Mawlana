@@ -2,12 +2,6 @@
 
 # dependencies
 /node_modules
-/package.json
-/package.json
-/index.js
-/data.json
-/.pnp
-.pnp.js
 
 # testing
 /coverage
